@@ -1,0 +1,12 @@
+width, height = 1400, 500
+WHITE = (255, 255, 255)
+BLUE = (0, 0, 255)
+LIGHT_BLUE = (100, 100, 255)
+BLACK = (0, 0, 0)
+button_x, button_y = 550, 200
+button_width, button_height = 300, 100
+text_x, text_y = 20, 250
+text_width, text_height = 1360, 50
+start = 20
+gap_x, gap_y = 5, 10
+currencies = ['EUR', 'USD', 'CNY']
