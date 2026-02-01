@@ -2,7 +2,7 @@ import pygame
 import sys
 import pyperclip
 import matplotlib.pyplot as plt
-from Lost import list_day, list_eu, list_us, list_cn
+from Listcreate import list_day, list_eu, list_us, list_cn
 from Config import width, height, WHITE, BLUE, LIGHT_BLUE, BLACK, button_x, button_y, button_width, button_height, text_x, text_y, text_width, text_height, start, currencies, gap_x, gap_y
 
 pygame.init()
@@ -106,3 +106,4 @@ while running:
 
 pygame.quit()
 sys.exit()
+
