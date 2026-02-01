@@ -78,4 +78,5 @@ for iy in range(len(add_string)):
 file_money.close()
 file_writer = open(current_directory+'/History.py', 'w')
 file_writer.write(acq_string)
+
 file_writer.close()
